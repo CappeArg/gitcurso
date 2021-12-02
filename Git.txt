@@ -1,0 +1,24 @@
+Git es un sistema de control de versiones
+snapshots= Fotos de como estan los archivos
+se pueden alterar los snapshots
+
+Comandos Básicos:
+bash=> terminal de Git, trae todos los comandos de unix
+
+git-> Tres estados
+||
+
+Working Directory: donde trabajo con mis archivos
+(git add)
+Staging Area: agregando los archivos que preparo para el guardado
+(git commit)
+Repository: Cuando estoy decidido para guardar los cambios, pasa al Repository
+
+git init: le decimos al sistema operativo que empezamos a usar git
+git add <file>: pasar los archivos Working Directory al Staging Area
+git status: en qué estado estan los archivos
+git commit: Staging Area al Repository, para crear un snapshots
+git push: subirlo a un Repository remoto
+git pull: traer los cambios que están efectuados por otros devs
+git clone: copia del servidor central a mi pc para trabajar
+
