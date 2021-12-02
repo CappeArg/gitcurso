@@ -22,3 +22,5 @@ git push: subirlo a un Repository remoto
 git pull: traer los cambios que están efectuados por otros devs
 git clone: copia del servidor central a mi pc para trabajar
 
+git bash here para abrir una terminal
+
